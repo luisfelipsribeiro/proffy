@@ -84,8 +84,5 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 ```
 
 
-## :memo: Licença
 
-
----
 <sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
